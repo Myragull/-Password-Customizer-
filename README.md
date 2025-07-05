@@ -46,7 +46,7 @@ This app allows you to:
 
 ## Live Demo
 
-View Live App : https://todo-list-tau-flax-63.vercel.app/
+View Live App : https://password-customizer.vercel.app/
 
 ## Author
 
